@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/08/10 16:09:00.000.358,=D:\Sistemas\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/02/18 16:46:37.000.130,=D:\Sistemas\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/02/18 16:47:05.000.663,D:\Sistemas\Delphi\Mordern Design\uMain.pas=D:\Sistemas\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/02/18 16:47:05.000.663,D:\Sistemas\Delphi\Mordern Design\uMain.dfm=D:\Sistemas\Delphi\Unit1.dfm</Transaction>
+    <Transaction>2021/02/18 16:48:18.000.999,D:\Sistemas\Delphi\Mordern Design\ModernDesign.dproj=D:\Sistemas\Delphi\Project1.dproj</Transaction>
+    <Transaction>2021/02/18 18:04:08.000.028,=D:\Sistemas\Delphi\Mordern Design\Form.Main.pas</Transaction>
+  </Transactions>
+</BorlandProject>
